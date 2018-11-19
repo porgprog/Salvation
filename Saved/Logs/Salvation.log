@@ -438,3 +438,135 @@ LogInit: Object subsystem initialized
 [2018.11.19-20.30.11:090][564]LogWorld: Bringing up level for play took: 0.001588
 [2018.11.19-20.30.11:092][564]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
 [2018.11.19-20.30.11:094][564]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 -0.036
+[2018.11.19-20.31.47:963][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.31.47:964][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.31.48:293][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.31.48:294][116]PIE: New page: PIE session: TestMap1 (Nov 19, 2018, 4:31:48 AM)
+[2018.11.19-20.31.48:294][116]LogPlayLevel: Creating play world package: /Game/Test/Maps/UEDPIE_0_TestMap1
+[2018.11.19-20.31.48:327][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032742s)
+[2018.11.19-20.31.48:327][116]LogAIModule: Creating AISystem for world TestMap1
+[2018.11.19-20.31.48:328][116]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.11.19-20.31.48:328][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/Maps/TestMap1.TestMap1 to /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 (0.033808s)
+[2018.11.19-20.31.48:356][116]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-20.31.48:362][116]LogInit: FAudioDevice initialized.
+[2018.11.19-20.31.48:390][116]LogLoad: Game class is 'BasicGameMode_C'
+[2018.11.19-20.31.48:392][116]LogWorld: Bringing World /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.11.19-12.31.48
+[2018.11.19-20.31.48:392][116]LogWorld: Bringing up level for play took: 0.001617
+[2018.11.19-20.31.48:393][116]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 -0.736
+[2018.11.19-20.31.55:869][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.32.03:586][775]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.19-20.32.03:799][775]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418e3205a8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.19-20.32.03:800][775]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418e3205a0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.19-20.32.04:158][775]LogSlate: Took 0.003784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.19-20.32.04:306][776]LogSlate: Took 0.003504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.19-20.33.02:335][585]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd4410, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.03:702][726]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419dfd4410, Size=4
+[2018.11.19-20.33.03:702][726]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dbdbaa8, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_29:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.03:704][726]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dbdbe40, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.46:091][835]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419dbdbe40, Size=4
+[2018.11.19-20.33.46:091][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd52d8, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_31:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.46:093][835]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd75a0, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.53:830][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419dfd75a0, Size=4
+[2018.11.19-20.33.53:830][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd75a0, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_33:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.53:832][650]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd67e8, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.54:488][706]LogSlate: Took 0.005163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.19-20.33.55:473][801]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419dfd67e8, Size=4
+[2018.11.19-20.33.55:474][801]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419bca31f8, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_35:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.55:476][801]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419bca3ec8, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.57:076][954]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419bca3ec8, Size=4
+[2018.11.19-20.33.57:076][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd64f0, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_37:ExecuteUbergraph_PlayerController
+[2018.11.19-20.33.57:078][954]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419dfd53a8, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.34.01:721][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419dfd53a8, Size=4
+[2018.11.19-20.34.01:721][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419bca3db8, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_39:ExecuteUbergraph_PlayerController
+[2018.11.19-20.34.01:723][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419bca0710, Size=4, Default__SKEL_PlayerController_C Function /Game/Core/Player/PlayerController.SKEL_PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.36.49:969][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Player/PlayerController" FILE="D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset" SILENT=true
+[2018.11.19-20.36.50:023][558]LogSavePackage: Save=34.83ms
+[2018.11.19-20.36.50:023][558]LogSavePackage: Moving 'D:/Game Creation/Unreal Projects/Salvation/Saved/PlayerControllerCAD73FA74E5DDB8EFE26CFBF0BBEC33D.tmp' to 'D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset'
+[2018.11.19-20.36.50:028][558]LogSavePackage: Display: Finished SavePackage D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset
+[2018.11.19-20.36.50:567][604]BlueprintLog: New page: Compile PlayerController
+[2018.11.19-20.36.50:578][604]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419bca0710, Size=4
+[2018.11.19-20.36.50:578][604]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024191f9ba20, Size=4, Default__SKEL_PlayerController_C Function /Engine/Transient.REINST_SKEL_PlayerController_C_41:ExecuteUbergraph_PlayerController
+[2018.11.19-20.36.50:588][604]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002413b577400, Size=712
+[2018.11.19-20.36.50:589][604]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024192d55900, Size=712, Default__PlayerController_C Function /Engine/Transient.REINST_PlayerController_C_43:ExecuteUbergraph_PlayerController
+[2018.11.19-20.36.50:595][604]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241a5344800, Size=1120, Default__PlayerController_C Function /Game/Core/Player/PlayerController.PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.36.50:726][604]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024191f9ba20, Size=4
+[2018.11.19-20.37.02:342][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Player/PlayerController" FILE="D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset" SILENT=true
+[2018.11.19-20.37.02:394][598]LogSavePackage: Save=48.20ms
+[2018.11.19-20.37.02:394][598]LogSavePackage: Moving 'D:/Game Creation/Unreal Projects/Salvation/Saved/PlayerController8DEE3FB04FAEDE2E76AB249CCF5398E5.tmp' to 'D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset'
+[2018.11.19-20.37.02:397][598]LogSavePackage: Display: Finished SavePackage D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/PlayerController.uasset
+[2018.11.19-20.37.02:871][638]BlueprintLog: New page: Compile PlayerController
+[2018.11.19-20.37.02:892][638]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000241a5344800, Size=1120
+[2018.11.19-20.37.02:892][638]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419b50ab00, Size=1120, PlayerController_C_1 Function /Engine/Transient.REINST_PlayerController_C_47:ExecuteUbergraph_PlayerController
+[2018.11.19-20.37.02:899][638]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241a5344100, Size=1112, Default__PlayerController_C Function /Game/Core/Player/PlayerController.PlayerController_C:ExecuteUbergraph_PlayerController
+[2018.11.19-20.37.03:022][638]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024192d55900, Size=712
+[2018.11.19-20.37.05:446][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.37.05:459][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.37.05:460][793]PIE: New page: PIE session: TestMap1 (Nov 19, 2018, 4:37:05 AM)
+[2018.11.19-20.37.05:460][793]LogPlayLevel: Creating play world package: /Game/Test/Maps/UEDPIE_0_TestMap1
+[2018.11.19-20.37.05:477][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017527s)
+[2018.11.19-20.37.05:478][793]LogAIModule: Creating AISystem for world TestMap1
+[2018.11.19-20.37.05:478][793]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.11.19-20.37.05:478][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/Maps/TestMap1.TestMap1 to /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 (0.018639s)
+[2018.11.19-20.37.05:495][793]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419b50ab00, Size=1120
+[2018.11.19-20.37.05:514][793]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-20.37.05:520][793]LogInit: FAudioDevice initialized.
+[2018.11.19-20.37.05:554][793]LogLoad: Game class is 'BasicGameMode_C'
+[2018.11.19-20.37.05:555][793]LogWorld: Bringing World /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.11.19-12.37.05
+[2018.11.19-20.37.05:556][793]LogWorld: Bringing up level for play took: 0.001668
+[2018.11.19-20.37.05:557][793]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 0.427
+[2018.11.19-20.37.34:599][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.19-20.40.08:396][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.40.08:451][581]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.40.08:467][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.40.08:468][581]PIE: New page: PIE session: TestMap1 (Nov 19, 2018, 4:40:08 AM)
+[2018.11.19-20.40.08:468][581]LogPlayLevel: Creating play world package: /Game/Test/Maps/UEDPIE_0_TestMap1
+[2018.11.19-20.40.08:485][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017381s)
+[2018.11.19-20.40.08:486][581]LogAIModule: Creating AISystem for world TestMap1
+[2018.11.19-20.40.08:486][581]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2018.11.19-20.40.08:486][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/Maps/TestMap1.TestMap1 to /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 (0.018761s)
+[2018.11.19-20.40.08:523][581]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-20.40.08:530][581]LogInit: FAudioDevice initialized.
+[2018.11.19-20.40.08:561][581]LogLoad: Game class is 'BasicGameMode_C'
+[2018.11.19-20.40.08:562][581]LogWorld: Bringing World /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.11.19-12.40.08
+[2018.11.19-20.40.08:562][581]LogWorld: Bringing up level for play took: 0.001758
+[2018.11.19-20.40.08:564][581]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 -0.566
+[2018.11.19-20.41.47:554][571]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.11.19-20.41.48:533][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.41.48:588][654]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.41.48:605][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.41.48:605][654]PIE: New page: PIE session: TestMap1 (Nov 19, 2018, 4:41:48 AM)
+[2018.11.19-20.41.48:605][654]LogPlayLevel: Creating play world package: /Game/Test/Maps/UEDPIE_0_TestMap1
+[2018.11.19-20.41.48:622][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016669s)
+[2018.11.19-20.41.48:623][654]LogAIModule: Creating AISystem for world TestMap1
+[2018.11.19-20.41.48:623][654]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.11.19-20.41.48:623][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/Maps/TestMap1.TestMap1 to /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 (0.017684s)
+[2018.11.19-20.41.48:658][654]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-20.41.48:665][654]LogInit: FAudioDevice initialized.
+[2018.11.19-20.41.48:696][654]LogLoad: Game class is 'BasicGameMode_C'
+[2018.11.19-20.41.48:698][654]LogWorld: Bringing World /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.11.19-12.41.48
+[2018.11.19-20.41.48:699][654]LogWorld: Bringing up level for play took: 0.001934
+[2018.11.19-20.41.48:700][654]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 -0.43
+[2018.11.19-20.42.17:107][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.43.09:969][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Player/Jiffy" FILE="D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/Jiffy.uasset" SILENT=true
+[2018.11.19-20.43.10:438][751]LogSavePackage: Save=81.67ms
+[2018.11.19-20.43.10:439][751]LogSavePackage: Moving 'D:/Game Creation/Unreal Projects/Salvation/Saved/JiffyB5E2710741C256A4EF4EBDAAF90A2E86.tmp' to 'D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/Jiffy.uasset'
+[2018.11.19-20.43.10:442][751]LogSavePackage: Display: Finished SavePackage D:/Game Creation/Unreal Projects/Salvation/Content/Core/Player/Jiffy.uasset
+[2018.11.19-20.43.10:646][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-20.43.10:689][774]BlueprintLog: New page: Compile Jiffy
+[2018.11.19-20.43.10:710][774]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002413b62ed40, Size=280
+[2018.11.19-20.43.10:710][774]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241a510e340, Size=280, Default__Jiffy_C Function /Engine/Transient.REINST_Jiffy_C_53:ExecuteUbergraph_Jiffy
+[2018.11.19-20.43.10:712][774]LogUObjectGlobals: Created PersistentFrame Addr=0x00000241a510e980, Size=272, Default__Jiffy_C Function /Game/Core/Player/Jiffy.Jiffy_C:ExecuteUbergraph_Jiffy
+[2018.11.19-20.43.12:213][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.19-20.43.12:229][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.19-20.43.12:229][866]PIE: New page: PIE session: TestMap1 (Nov 19, 2018, 4:43:12 AM)
+[2018.11.19-20.43.12:229][866]LogPlayLevel: Creating play world package: /Game/Test/Maps/UEDPIE_0_TestMap1
+[2018.11.19-20.43.12:245][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016141s)
+[2018.11.19-20.43.12:246][866]LogAIModule: Creating AISystem for world TestMap1
+[2018.11.19-20.43.12:246][866]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.11.19-20.43.12:246][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/Maps/TestMap1.TestMap1 to /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 (0.016999s)
+[2018.11.19-20.43.12:282][866]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.19-20.43.12:289][866]LogInit: FAudioDevice initialized.
+[2018.11.19-20.43.12:318][866]LogLoad: Game class is 'BasicGameMode_C'
+[2018.11.19-20.43.12:320][866]LogWorld: Bringing World /Game/Test/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.11.19-12.43.12
+[2018.11.19-20.43.12:320][866]LogWorld: Bringing up level for play took: 0.001669
+[2018.11.19-20.43.12:322][866]PIE: Play in editor start time for /Game/Test/Maps/UEDPIE_0_TestMap1 -0.808
